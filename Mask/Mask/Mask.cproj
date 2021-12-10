@@ -12,9 +12,9 @@
     <OutputFileName>$(MSBuildProjectName)</OutputFileName>
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
-    <AssemblyName>SW_LED</AssemblyName>
-    <Name>SW_LED</Name>
-    <RootNamespace>SW_LED</RootNamespace>
+    <AssemblyName>Mask</AssemblyName>
+    <Name>Mask</Name>
+    <RootNamespace>Mask</RootNamespace>
     <ToolchainFlavour>Native</ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
     <OverrideVtor>false</OverrideVtor>
