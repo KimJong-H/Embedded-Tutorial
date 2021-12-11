@@ -1,9 +1,10 @@
 /*
- * Mask.c
+ * Mask ex)3.2.c
  *
- * Created: 2021-12-09 오후 11:55:10
+ * Created: 2021-12-11 오후 6:15:14
  * Author : JongHun
  */ 
+
 #define F_CPU 8000000UL
 
 #include <avr/io.h>
